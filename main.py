@@ -1,5 +1,7 @@
 def main():
-    print("Hello David")
+    x = 1000
+    z = 2
+    print("x: ", x, "z: ", z)
 
 
 if __name__ == "__main__":
